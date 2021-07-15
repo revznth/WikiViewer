@@ -1,0 +1,42 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.center {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.form-group {
+    padding: 0;
+}
+
+input {
+    font-family:FontAwesome;
+    /*line-height: 150%;*/
+}
+
+#header {
+    margin: 50px 0 50px 0;
+}
+
+section {
+    margin: 50px 0 50px 0;
+}
+
+.result {
+    margin: 50px 0 0 0;
+    padding: 5px;
+    border-style: groove;
+}
+
+.extract {
+    font-weight: 300;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 60px;
+}
